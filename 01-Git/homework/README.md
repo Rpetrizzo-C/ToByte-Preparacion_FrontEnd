@@ -1,4 +1,11 @@
 # Homework: Git
+```bash
+| cd ~
+```
+
+```bash
+  mkdir Tobyte
+```
 
 ### Pre-requisitos
 
@@ -19,6 +26,7 @@ Dentro de nuestra terminal podemos: revisar nuestra estructura de archivos, aña
 ```bash
   $ ls
 ```
+
 
 
 "Change Directory": Nos permite movernos a una nueva carpeta o "directorio"
@@ -52,7 +60,8 @@ Para ello primero iremos a la carpeta de nivel superior, escribe en la consola:
 
 ```bash
   cd ~
-```
+``` 
+
 
 y presiona Enter. Una vez estés en el nivel superior, escribe:
 
